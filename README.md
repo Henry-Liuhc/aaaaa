@@ -1,4 +1,4 @@
-conflicts abc
+conflicts abc new
 
 # aaaaa
 
